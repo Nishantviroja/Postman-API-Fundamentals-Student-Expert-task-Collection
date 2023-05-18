@@ -1,4 +1,4 @@
-# Postman-API-Fundamentals-Student-Expert-task-Collection
+# Postman API Fundamentals Student Expert Task Collection
 Postman API Fundamentals Student Expert task Collection should only have 7 requests in this exact order:
 
 - get books
